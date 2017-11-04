@@ -33,6 +33,8 @@ mkdir $appDir/src/img
 
 mkdir $appDir/src/content
 
+touch $appDir/src/js/app.js
+touch $appDir/src/js/store.js
 touch $appDir/src/js/actions/types.js
 touch $appDir/src/js/actions/index.js
 touch $appDir/src/js/middlewares/index.js
